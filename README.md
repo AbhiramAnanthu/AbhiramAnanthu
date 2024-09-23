@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiramananthu" alt="abhiramananthu" /></a> </p>
 
-- 🔭 I’m currently working on [HireSift](https://github.com/AbhiramAnanthu/HireSift-backend)
+- 🔭 I’m currently working on [SIH](https://github.com/AbhiramAnanthu/SIH-prototype)
 
 - 🌱 I’m currently learning **React JS,Django,Node.js**
 
